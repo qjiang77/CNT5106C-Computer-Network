@@ -1,0 +1,26 @@
+[1]data integerity
+    100% reliable data transfer: file transfer and web transactions
+    loss tolerated
+    
+[2]time sensitive
+    low delay
+    
+[3]throughput
+    require minimum amount of throughput
+    whatever throughput they get
+
+[4]security
+    encryption, data integerity
+
+// TODO: fill the note below
+TCP service:
+    reliable transport
+    flow control
+    congestion control
+    ...
+UDP service:
+    real-time, no long delay 
+    ...
+
+SSL
+    
